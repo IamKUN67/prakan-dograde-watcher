@@ -1,0 +1,10 @@
+# ข้อมูลลับ ห้าม push ขึ้น GitHub
+bot_config.json
+
+# รูปแคป/ข้อมูลผลการเรียน (ข้อมูลส่วนตัว)
+shots/
+
+# ไฟล์ Python ทั่วไป
+__pycache__/
+*.pyc
+.venv/

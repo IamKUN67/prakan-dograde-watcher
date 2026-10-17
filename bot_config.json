@@ -1,0 +1,6 @@
+{
+  "BOT_TOKEN": "วาง Bot Token จาก Discord Developer Portal ตรงนี้",
+  "ALLOWED_USER_ID": "ใส่ Discord user ID ของคุณ (ใช้ทั้งกันสิทธิ์คำสั่งและเป็นคนที่จะถูกแท็ก)",
+  "GUILD_ID": "ใส่ Server ID (เว้นว่างได้ แต่คำสั่งจะขึ้นช้า)",
+  "WEBHOOK_URL": "วางลิงก์ Discord Webhook ตรงนี้"
+}
